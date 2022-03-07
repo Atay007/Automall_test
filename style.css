@@ -1,0 +1,22 @@
+#myVideo {
+
+    height:100%px;
+    width:100%;
+}
+#carouselExampleControls{
+    background-color: black;
+}
+
+.backgr{
+    text-align: center;
+    background-color:blue;
+    padding-bottom: 300px;
+    padding-top: 250px;
+}
+#c2{
+    margin-left: 100px;
+}
+.cont4{
+    background-color: black;
+}
+
